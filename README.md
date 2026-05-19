@@ -1,22 +1,21 @@
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=1seik4i&color=blueviolet&style=flat-square&label=HELLO,+1SEIK4I" alt="Profile Views" />
-</p>
-<p align="center">
 # Welcome to my GitHub 
 
 **Full-Stack Developer | Tech Enthusiast | Open to Collaboration**
-</p>
+
 # 💫 About Me:
  🔭 I have a future development project : **Drone Delivery System for Vietnam**<br> 🌱 I'm currently learning: **React · Node.js · Cloud**<br> 👯 I'm looking to collaborate on: **Open-source projects**<br> 💬 Ask me about: **Web Dev, Drones, E-Commerce**<br>- 📫 How to reach me: **1seik4i@gmail.com**<br>
 
 
 ## 🌐 Socials:
-<p align="center">
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/minh.khai.993993/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@1seik4i) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1seik4i@gmail.comik4i@gmail.com) 
  
+  <p align="center">
   <img src="https://camo.githubusercontent.com/4438787124ff271be7ab30495739ab9956cd955a0615238a5fcdd673a189decf/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067" alt="Banner" width="100%" />
 </p>
+
 
 
 # 💻 Tech Stack:
