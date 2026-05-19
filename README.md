@@ -5,6 +5,8 @@
  
 # Welcome to my GitHub
 **Full-Stack Developer | Tech Enthusiast | Open to Collaboration**
+<br>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation" />
 
 </div>
 <br>
