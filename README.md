@@ -80,4 +80,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/1seik4i/1seik4i/snake-output/snake.svg" alt="Snake animation" />
 
+###
