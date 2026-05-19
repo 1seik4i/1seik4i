@@ -3,6 +3,7 @@
 <p align="center">
 
 # Welcome to my GitHub 
+</p>
 <p align="center">
 
 **Full-Stack Developer | Tech Enthusiast | Open to Collaboration**
