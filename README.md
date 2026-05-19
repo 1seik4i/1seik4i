@@ -1,7 +1,9 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=1seik4i&color=blueviolet&style=flat-square&label=HELLO,+1SEIK4I" alt="Profile Views" />
- 
+<p align="center">
+
 # Welcome to my GitHub 
+<p align="center">
 
 **Full-Stack Developer | Tech Enthusiast | Open to Collaboration**
 <br>
