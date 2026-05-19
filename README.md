@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=1seik4i&color=blueviolet&style=flat-square&label=HELLO,+1SEIK4I" alt="Profile Views" />
+
+# 🚀 Welcome to my universe!
+
+**Full-Stack Developer | Tech Enthusiast | Open to Collaboration**
 # 💫 About Me:
 - 🔭 I have a future development project : **Drone Delivery System for Vietnam**<br>- 🌱 I'm currently learning: **React · Node.js · Cloud**<br>- 👯 I'm looking to collaborate on: **Open-source projects**<br>- 💬 Ask me about: **Web Dev, Drones, E-Commerce**<br>- 📫 How to reach me: **1seik4i@gmail.com**<br>
 
