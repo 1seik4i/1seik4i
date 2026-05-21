@@ -3,8 +3,8 @@
 </p>
 <div align="center">
  
-# Welcome to my GitHub
-**Full-Stack Developer | Tech Enthusiast | Open to Collaboration**
+# 🚀Welcome to my GitHub🛸
+**Tech & Audio Geek | Custom Keyboard Builder | Tech Enthusiast**
 
 <br>
 <img src="https://cdn.rgb.vn/wp-content/uploads/2017/09/rgb_creative_mithuatdiemanh_23.gif" width="80%"/>
