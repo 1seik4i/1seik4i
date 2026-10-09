@@ -1,99 +1,143 @@
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=1seik4i&color=blueviolet&style=flat-square&label=HELLO,+1SEIK4I" alt="Profile Views" />
-</p>
-<div align="center">
- 
-# 🚀Welcome to my GitHub🛸
-# Tech & Audio Geek | Custom Keyboard Builder | Tech Enthusiast
 
-<br>
-<img src="https://cdn.rgb.vn/wp-content/uploads/2017/09/rgb_creative_mithuatdiemanh_23.gif" width="80%"/>
-
-</div>
-<br>
-
-# 💫 About Me:
- 🔭 I have a future development project : **Drone Delivery System for Vietnam**<br> 🌱 I'm currently learning: **React · Node.js · Cloud**<br> 👯 I'm looking to collaborate on: **Open-source projects**<br> 💬 Ask me about: **Web Dev, Drones, E-Commerce**<br>- 📫 How to reach me: **1seik4i@gmail.com**<br>
-
-
-## 🌐 Socials:
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/minh.khai.993993/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@1seik4i) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1seik4i@gmail.comik4i@gmail.com) 
+# Hi, I'm 1seik4i 👋
+
+### Building for the web. Exploring what's next.
+
+**Software Development · Cloud · Drones · Hardware**
+
+<br/>
+
+<a href="https://github.com/1seik4i">
+  <img src="https://komarev.com/ghpvc/?username=1seik4i&label=Profile%20Views&color=64748b&style=flat-square" alt="Profile Views"/>
+</a>
+
+<br/><br/>
+
+<a href="mailto:1seik4i@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.facebook.com/minh.khai.993993/">
+  <img src="https://img.shields.io/badge/Facebook-1f2937?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://www.tiktok.com/@1seik4i">
+  <img src="https://img.shields.io/badge/TikTok-1f2937?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/>
+</a>
+
 </div>
-<br>
- 
-  <p align="center">
-  <img src="https://camo.githubusercontent.com/4438787124ff271be7ab30495739ab9956cd955a0615238a5fcdd673a189decf/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067" alt="Banner" width="50%" />
-</p>
-
-
-
-# 💻 Tech Stack:
-<div align="center">
- 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
-</div>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-</div>
-
-###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=1seik4i&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=1seik4i&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=1seik4i&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-###
+## About Me
+
+I'm a tech enthusiast passionate about software development, emerging technologies, and the intersection of hardware and software.
+
+I enjoy exploring how technology can solve real-world problems — from building web applications to experimenting with drones, electronics, and custom mechanical keyboards.
+
+- Currently learning **React, Node.js, and Cloud Computing**
+- Interested in **Full-stack Development, Automation, and IoT**
+- Exploring **Drone Technology and Autonomous Systems**
+- Open to **Open-source Collaboration**
+- Into **Custom Keyboards, Audio, and Gaming Hardware**
+
+> "Keep building. Keep learning. Stay curious."
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-334155?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-334155?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-334155?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css&logoColor=white)
+
+**Frameworks & Technologies**
+
+![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-334155?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-334155?style=flat-square&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-334155?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-334155?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-334155?style=flat-square&logo=firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-334155?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Tools & Hardware**
+
+![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-334155?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-334155?style=flat-square&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-334155?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+## Areas of Interest
+
+| Area | What interests me |
+|:---|:---|
+| Web Development | Building practical, scalable web applications |
+| Cloud & DevOps | Deployment, containers, and cloud infrastructure |
+| Drone Technology | Autonomous systems and real-world applications |
+| Hardware & IoT | Electronics, embedded systems, and automation |
+| Mechanical Keyboards | Custom builds, switches, and keyboard technology |
+
+---
+
+## Future Vision
+
+### Drone Delivery System for Vietnam
+
+An idea I'm interested in exploring: using autonomous drone technology to support smarter delivery and logistics solutions in Vietnam.
+
+Potential areas of research:
+
+- Autonomous flight and navigation
+- Delivery route planning
+- Real-time tracking and monitoring
+- Cloud-connected fleet management
+- Safety and operational reliability
+
+*Status: Future project concept / research interest.*
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=1seik4i.1seik4i&left_color=deepskyblue"  />
+
+<img src="https://github-readme-stats.shion.dev/api?username=1seik4i&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=1seik4i&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=1seik4i&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1seik4i/1seik4i/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1seik4i/1seik4i/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/1seik4i/1seik4i/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+<div align="center">
 
-###
+### Let's Connect
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+I'm always interested in learning, exchanging ideas, and collaborating on interesting projects.
+
+**[GitHub](https://github.com/1seik4i) · [Facebook](https://www.facebook.com/minh.khai.993993/) · [TikTok](https://www.tiktok.com/@1seik4i) · [Email](mailto:1seik4i@gmail.com)**
+
+<br/>
+
+<sub>Built with curiosity, maintained with passion.</sub>
+
 </div>
-
-###
-
