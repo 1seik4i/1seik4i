@@ -1,0 +1,69 @@
+name: Generate Galaxy and 3D Profile
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "config.yml"
+      - ".github/workflows/profile-assets.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generated-profile-assets
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+
+      - name: Checkout galaxy generator
+        uses: actions/checkout@v4
+        with:
+          repository: vinimlo/galaxy-profile
+          path: .galaxy-profile
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: .galaxy-profile/requirements.txt
+
+      - name: Generate galaxy assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          pip install -r .galaxy-profile/requirements.txt
+          cp config.yml .galaxy-profile/config.yml
+          cd .galaxy-profile
+          python -m generator.main
+          cd ..
+          mkdir -p assets/generated
+          cp .galaxy-profile/assets/generated/*.svg assets/generated/
+          rm -rf .galaxy-profile
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit generated assets
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated/ profile-3d-contrib/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: refresh generated profile assets [skip ci]"
+            git push
+          fi

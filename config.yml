@@ -1,0 +1,39 @@
+username: 1seik4i
+
+profile:
+  name: "Minh Khai"
+  tagline: "Software Architect • Autonomous Systems • Hardware R&D"
+  location: "Vietnam"
+  bio: "Building reliable software where cloud systems, robotics, and hardware meet."
+  philosophy: '"Engineer for clarity. Build for impact."'
+
+social:
+  email: "1seik4i@gmail.com"
+  website: "https://github.com/1seik4i"
+
+galaxy_arms:
+  - name: "Cloud & Backend"
+    items: ["Java", "C#", "JavaScript", "TypeScript", "Node.js", "PostgreSQL", "Redis"]
+  - name: "Frontend"
+    items: ["React", "Next.js", "HTML", "CSS"]
+  - name: "Robotics & Hardware"
+    items: ["C", "C++", "Python", "Arduino", "Embedded Systems"]
+
+projects: []
+
+theme:
+  dark: "deep-sky"
+  light: "cyanotype"
+  void: "#080C14"
+  synapse_cyan: "#00F5D4"
+  dendrite_violet: "#A78BFA"
+  axon_amber: "#FFB020"
+
+motion: true
+
+stats:
+  metrics: ["stars", "prs", "repos"]
+
+languages:
+  exclude: ["HTML", "CSS", "Shell", "Makefile"]
+  max_display: 10

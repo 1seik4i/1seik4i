@@ -1,14 +1,17 @@
 <div align="center">
 
-  <!-- 🌌 Sleek Modern Header Banner -->
-  <a href="https://github.com/1seik4i">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090d16,40:111b2b,75:1e293b,100:00f5d4&height=210&section=header&text=%E2%9A%A1%20MINH%20KHAI%20%E2%9A%A1&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=SOFTWARE%20ARCHITECT%20%E2%80%A2%20AUTONOMOUS%20SYSTEMS%20%E2%80%A2%20HARDWARE%20ENGINEER&descFontSize=14&descColor=00F5D4&descAlignY=66&descAlign=50" width="100%" alt="Header Banner" />
-  </a>
+  <!-- 🌌 Generated from the public repositories with vinimlo/galaxy-profile -->
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-mobile-light.svg">
+    <source media="(max-width: 600px)" srcset="./assets/generated/galaxy-header-mobile.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-light.svg">
+    <img src="./assets/generated/galaxy-header.svg" width="100%" alt="Minh Khai's repository galaxy" />
+  </picture>
 
   <!-- ⚡ Dynamic Terminal Typing SVG -->
   <p align="center">
     <a href="https://github.com/1seik4i">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2400&pause=1000&color=00F5D4&center=true&vCenter=true&repeat=true&width=750&lines=%3E_const+engineer+%3D+%22Minh+Khai+(1seik4i)%22%3B;%F0%9F%9A%81+Architecting+Autonomous+Drone+Logistics+Fleet+for+Vietnam;%E2%9A%A1+Distributed+Cloud+Systems+%7C+Node.js+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+RTOS;%E2%8C%A8%EF%B8%8F+Custom+PCB+Engineering+%26+Hi-Res+Acoustic+Audio+DSP;%F0%9F%8C%9F+Building+High-Performance%2C+Reliable+%26+Scalable+Software" alt="Typing SVG" />
+      <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22%3E%20const%20engineer%20%3D%20%5C%22Minh%20Khai%20%281seik4i%29%5C%22%3B%22%2C%22color%22%3A%22%2300F5D4%22%7D%2C%7B%22text%22%3A%22Architecting%20autonomous%20systems%20for%20Vietnam%22%2C%22color%22%3A%22%23A78BFA%22%7D%2C%7B%22text%22%3A%22Distributed%20cloud%20%E2%80%A2%20Robotics%20%E2%80%A2%20Hardware%20R%26D%22%2C%22color%22%3A%22%23FFB020%22%7D%5D&font=Fira%20Code&width=850&height=110&fontSize=21&typingSpeed=0.045&deleteSpeed=0.025&pause=1300&repeat=true&center=true&vCenter=true&border=false&cursorStyle=block&deletionBehavior=backspace&fontWeight=600&backgroundColor=%23080C14&backgroundOpacity=0" alt="Animated introduction" width="100%" />
     </a>
   </p>
 
@@ -161,6 +164,17 @@ interface SoftwareArchitect {
 <br/>
 
 <div align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/stats-card-mobile-light.svg">
+    <source media="(max-width: 600px)" srcset="./assets/generated/stats-card-mobile.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/stats-card-light.svg">
+    <img src="./assets/generated/stats-card.svg" alt="Contribution light curve" width="96%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
   <table border="0" style="border-collapse: collapse; width: 100%; max-width: 880px;">
     <tr>
       <td align="center" width="50%" style="padding: 4px;">
@@ -176,6 +190,14 @@ interface SoftwareArchitect {
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+### 🏙️ 3D Contribution City
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="96%" />
 </div>
 
 <br/>
