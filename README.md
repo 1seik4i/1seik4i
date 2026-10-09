@@ -1,9 +1,9 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-mobile-light.svg">
-    <source media="(max-width: 600px)" srcset="./assets/generated/galaxy-header-mobile.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-light.svg">
-    <img src="./assets/generated/galaxy-header.svg" width="100%" alt="Minh Khai's repository galaxy" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-mobile-light.svg?v=20261009">
+    <source media="(max-width: 600px)" srcset="./assets/generated/galaxy-header-mobile.svg?v=20261009">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/galaxy-header-light.svg?v=20261009">
+    <img src="./assets/generated/galaxy-header.svg?v=20261009" width="100%" alt="Minh Khai's repository galaxy" />
   </picture>
 
   <a href="https://github.com/1seik4i">
