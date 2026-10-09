@@ -1,84 +1,130 @@
 <div align="center">
 
-  <!-- 🌌 Cyber Futuristic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:111b2b,100:090d16&height=180&section=header&text=%E2%9A%A1%20MINH%20KHAI%20%E2%9A%A1&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=42&desc=NEXT-GEN%20SOFTWARE%20ENGINEER%20%7C%20AUTONOMOUS%20DRONE%20ARCHITECT%20%7C%20TECH%20INNOVATOR&descFontSize=14&descColor=94A3B8&descAlignY=68&descAlign=50" width="100%" alt="Cyber Header" />
+  <!-- 🌌 Futuristic Cyber Header Banner -->
+  <a href="https://github.com/1seik4i">
+    <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:090d16,35:0d1b2a,70:1b263b,100:00F5D4&height=220&section=header&text=%E2%9A%A1%20MINH%20KHAI%20%E2%9A%A1&fontSize=48&fontColor=00F5D4&animation=twinkling&fontAlignY=40&desc=%E2%97%88%20SOFTWARE%20ARCHITECT%20%7C%20AUTONOMOUS%20SYSTEMS%20%7C%20HARDWARE%20INNOVATOR%20%E2%97%88&descFontSize=15&descColor=E2E8F0&descAlignY=65&descAlign=50" width="100%" alt="Minh Khai Header Banner" />
+  </a>
 
-  <!-- 🚀 Visual Cyberpunk / Futuristic Banner -->
+  <!-- 🚀 Cyberpunk Video / GIF Aesthetic Visual -->
   <p align="center">
-    <img src="https://cdn.rgb.vn/wp-content/uploads/2017/09/rgb_creative_mithuatdiemanh_23.gif" width="100%" style="border-radius: 12px; box-shadow: 0 12px 36px rgba(0, 245, 212, 0.15);" alt="Cyberpunk Banner" />
+    <img src="https://cdn.rgb.vn/wp-content/uploads/2017/09/rgb_creative_mithuatdiemanh_23.gif" width="100%" style="border-radius: 14px; border: 1px solid rgba(0, 245, 212, 0.3); box-shadow: 0 10px 30px rgba(0, 245, 212, 0.2);" alt="Cyber Visual Stream" />
   </p>
 
-  <!-- ⚡ Dynamic Terminal Typing SVG (Futuristic Neon Stream) -->
+  <!-- ⚡ Dynamic Terminal Typing SVG -->
   <a href="https://github.com/1seik4i">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&repeat=true&width=680&lines=%3E_INITIALIZING_QUANTUM_CORE...;%E2%9A%A1+Architecting+Autonomous+Drone+Delivery+Network+%F0%9F%9A%81;%F0%9F%92%BB+Full-Stack+Architect+%7C+React+%E2%80%A2+Node.js+%E2%80%A2+.NET+%E2%80%A2+Cloud;%E2%8C%A8%EF%B8%8F+Custom+PCB+Keeb+Builder+%26+Hi-Res+Audio+Acoustician;%F0%9F%8C%8C+Pushing+the+Boundaries+of+Software+%26+Hardware+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=00F5D4&background=0D111700&center=true&vCenter=true&repeat=true&width=780&lines=%E2%9D%AF_INITIALIZING_QUANTUM_CORE...;%F0%9F%9A%81+Architecting+Autonomous+Drone+Delivery+Network+for+Vietnam;%E2%9A%A1+Full-Stack+Architect+%7C+Distributed+Cloud+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+.NET;%E2%8C%A8%EF%B8%8F+Custom+PCB+Keeb+Engineer+%26+Hi-Res+Acoustics+Tuner;%F0%9F%9B%B0%EF%B8%8F+Bridging+the+Physical+and+Digital+Frontiers+of+Technology" alt="Typing Terminal Animation" />
   </a>
 
   <br/><br/>
 
-  <!-- 🛰️ Quantum Link & Orbital Comms Badges -->
-  <a href="mailto:1seik4i@gmail.com">
-    <img src="https://img.shields.io/badge/COMM_LINK-1seik4i%40gmail.com-00F5D4?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/minh.khai.993993/" target="_blank">
-    <img src="https://img.shields.io/badge/NETWORK-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.tiktok.com/@1seik4i" target="_blank">
-    <img src="https://img.shields.io/badge/TRANSMISSION-TikTok-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://github.com/1seik4i">
-    <img src="https://komarev.com/ghpvc/?username=1seik4i&color=00f5d4&style=for-the-badge&label=%E2%97%88+QUANTUM+VISITORS" alt="Profile Views" />
-  </a>
+  <!-- 🛰️ Orbital Contact & Status Badges -->
+  <p align="center">
+    <a href="mailto:1seik4i@gmail.com">
+      <img src="https://img.shields.io/badge/COMM_LINK-1seik4i%40gmail.com-00F5D4?style=for-the-badge&logo=gmail&logoColor=090D16" alt="Gmail Badge" />
+    </a>
+    <a href="https://www.facebook.com/minh.khai.993993/" target="_blank">
+      <img src="https://img.shields.io/badge/NETWORK-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+    </a>
+    <a href="https://www.tiktok.com/@1seik4i" target="_blank">
+      <img src="https://img.shields.io/badge/TRANSMISSION-TikTok-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge" />
+    </a>
+    <a href="https://github.com/1seik4i">
+      <img src="https://img.shields.io/badge/BASE-Vietnam_%F0%9F%87%BB%F0%9F%87%B3_(UTC%2B7)-0EA5E9?style=for-the-badge&logo=googleearth&logoColor=white" alt="Location Badge" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=1seik4i&color=00f5d4&style=for-the-badge&label=%E2%97%88+QUANTUM+VISITORS">
+      <img src="https://komarev.com/ghpvc/?username=1seik4i&color=00f5d4&style=for-the-badge&label=%E2%97%88+QUANTUM+VISITORS" alt="Profile Views" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### 🛸 System Architecture & Mission Briefing
+### 🛸 System Architecture & Executive Briefing
 
 ```yaml
-system_profile:
-  engineer: Minh Khai (1seik4i)
-  domain: Full-Stack Cloud Architecture & Autonomous Robotics
-  operating_base: Vietnam 🇻🇳 (Timezone: UTC+7)
-current_directives:
-  flagship: "Autonomous Drone Delivery Logistics for Vietnam 🚁"
-  stack_focus: "React 19, Distributed Node.js, Cloud Microservices, Embedded IoT"
+┌── [ 🔴 🟡 🟢 terminal ~ 1seik4i@quantum-node:~$ cat system_profile.yaml ]
+│
+system_identity:
+  operator: "Minh Khai (1seik4i)"
+  role: "Lead Software Architect & Autonomous Robotics Engineer"
+  coordinates: "Vietnam 🇻🇳 [UTC+7]"
+  system_status: "🟢 Online • Ready for High-Impact R&D & Engineering Challenges"
+
+core_directives:
+  flagship_mission: "🚁 Autonomous Drone Logistics & Telemetry Network for Vietnam"
+  architecture: "Distributed Microservices, Event-Driven Systems, Real-Time WebSockets"
+  stack_core: "React 19, TypeScript, Node.js, .NET Core, Embedded C/C++, RTOS, Cloud IoT"
+
 engineering_passions:
-  - "Hardware & Custom Keyboards: PCB Soldering, Micro-switches & Acoustic Tuning ⌨️"
-  - "Audiophile Sound Systems: Hi-Fi DAC/Amps & Analog-to-Digital Processing 🎧"
-  - "Autonomous Edge Systems: Flight Controllers, Telemetry & Sensor Fusion 🤖"
+  - "🤖 Autonomous Edge Systems: Flight Controllers, Sensor Fusion & Telemetry"
+  - "⌨️ Custom Hardware & Keebs: PCB Soldering, QMK/VIA Firmware & Acoustic Tuning"
+  - "🎧 Audiophile Acoustics: Hi-Fi DAC/Amps, DSP Signal Processing & Lossless Audio"
+  - "🌌 Clean Code & Scalable Infrastructure: Designing Systems Built to Last"
 ```
 
-- 💡 **Innovation Philosophy:** Bridging the physical and digital divide through high-performance software, IoT edge intelligence, and clean architectural design.
-- 🔭 **Featured Vision:** Developing scalable aerial transport algorithms, automated route scheduling, and cloud-synchronized delivery hubs for Vietnam.
+- 💡 **Philosophy:** Bridging the physical and digital frontiers through high-performance software, IoT edge intelligence, and immaculate architectural design.
+- 🔭 **Featured Vision:** Developing scalable aerial transport algorithms, automated route scheduling, and cloud-synchronized delivery hubs.
 - 💬 **Collaborative Channels:** Open for research partnerships, cutting-edge open-source repositories, and high-impact engineering ventures.
 
 ---
 
-### 🔬 Innovation Projects & R&D Hub
+### 🔬 Flagship Innovations & R&D Showcase
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚁 Drone Delivery System</h3>
-      <p align="center">
-        <b>Autonomous Air Logistics Network</b>
-      </p>
+    <td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/MISSION-AUTONOMOUS_DRONE_LOGISTICS-00F5D4?style=for-the-badge&logo=spacex&logoColor=090D16" alt="Drone Fleet" />
+        <br/><br/>
+        <h3>🚁 Autonomous Air Logistics Fleet</h3>
+        <p><b>Next-Gen Point-to-Point Aerial Transport & Telemetry Network</b></p>
+      </div>
       <ul>
-        <li><b>Objective:</b> Autonomous point-to-point payload delivery.</li>
-        <li><b>Technologies:</b> C/C++, Embedded Firmware, RTOS, Cloud Telemetry, React Dashboard.</li>
-        <li><b>Status:</b> <code>Prototype Architecture & R&D Phase</code></li>
+        <li><b>Core Goal:</b> Automated flight route calculation, obstacle avoidance & cloud synchronization.</li>
+        <li><b>Tech Stack:</b> <code>C/C++</code>, <code>Embedded RTOS</code>, <code>MQTT</code>, <code>React Dashboard</code>, <code>Node.js Cluster</code>.</li>
+        <li><b>Status:</b> <img src="https://img.shields.io/badge/STATUS-R%26D_PROTOTYPE_PHASE-00F5D4?style=flat-square" alt="Status Badge" /></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⌨️ Keeb & Audio Acoustics Lab</h3>
-      <p align="center">
-        <b>Precision Hardware Engineering</b>
-      </p>
+    <td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/HARDWARE-KEEB_%26_ACOUSTIC_LAB-7928CA?style=for-the-badge&logo=razer&logoColor=white" alt="Keeb Lab" />
+        <br/><br/>
+        <h3>⌨️ Custom PCB & Acoustic Engineering</h3>
+        <p><b>Precision Mechanical Hardware & Hi-Res Sound Optimization</b></p>
+      </div>
       <ul>
-        <li><b>Objective:</b> Custom PCB layout design, QMK/VIA firmware, acoustic dampening.</li>
-        <li><b>Technologies:</b> Microcontrollers (RP2040, ATmega32U4), Soldering, Sound Engineering.</li>
-        <li><b>Status:</b> <code>Active Custom Builds</code></li>
+        <li><b>Core Goal:</b> Custom PCB traces, switch lubing, gasket dampening & QMK/VIA firmware programming.</li>
+        <li><b>Tech Stack:</b> <code>RP2040 MCU</code>, <code>ATmega32U4</code>, <code>KiCAD</code>, <code>C Firmware</code>, <code>Acoustic DSP</code>.</li>
+        <li><b>Status:</b> <img src="https://img.shields.io/badge/STATUS-ACTIVE_BUILDS-7928CA?style=flat-square" alt="Status Badge" /></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/ECOSYSTEM-CLOUD_MICROSERVICES-0EA5E9?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Microservices" />
+        <br/><br/>
+        <h3>🛰️ High-Concurrency Distributed Core</h3>
+        <p><b>Resilient Enterprise Backend & Cloud Infrastructure</b></p>
+      </div>
+      <ul>
+        <li><b>Core Goal:</b> Ultra-low latency APIs, multi-tenant databases & real-time telemetry pipelines.</li>
+        <li><b>Tech Stack:</b> <code>.NET Core</code>, <code>Node.js / Express</code>, <code>MongoDB</code>, <code>Redis</code>, <code>Docker</code>.</li>
+        <li><b>Status:</b> <img src="https://img.shields.io/badge/STATUS-CONTINUOUS_DEPLOYMENT-0EA5E9?style=flat-square" alt="Status Badge" /></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/AUDIOPHILE-HI--FI_SOUND_STATION-FF0050?style=for-the-badge&logo=sonos&logoColor=white" alt="Audio Station" />
+        <br/><br/>
+        <h3>🎧 Hi-Fi Audio DSP & Acoustic Chain</h3>
+        <p><b>Lossless Signal Path & Harmonic Sound Calibration</b></p>
+      </div>
+      <ul>
+        <li><b>Core Goal:</b> Pure signal transmission, DAC/Amp circuit tuning, and immersive spatial acoustics.</li>
+        <li><b>Tech Stack:</b> <code>Balanced 4.4mm DAC/Amp</code>, <code>Lossless DSP</code>, <code>Planar Drivers</code>, <code>Analog Filters</code>.</li>
+        <li><b>Status:</b> <img src="https://img.shields.io/badge/STATUS-DAILY_PERFECTION-FF0050?style=flat-square" alt="Status Badge" /></li>
       </ul>
     </td>
   </tr>
@@ -86,34 +132,41 @@ engineering_passions:
 
 ---
 
-### 🪐 Planetary Tech Matrix & Engineering Stack
+### 🪐 Planetary Tech Matrix & Engineering Arsenal
 
 <div align="center">
 
-#### 🚀 Core Programming Languages
+#### ⚡ Core Programming Languages & Computing Foundations
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,python,html,css&theme=dark" alt="Core Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,html,css&perline=9&theme=dark" alt="Core Languages" />
 </a>
 
 <br/>
 
-#### 🛸 Next-Gen Interface & Frontend Engineering
+#### ⚛️ Next-Gen Frontend, UI/UX & Interactive Interfaces
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,figma&theme=dark" alt="Frontend Matrix" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,vite,figma&perline=8&theme=dark" alt="Frontend Matrix" />
 </a>
 
 <br/>
 
-#### 🛰️ Cloud Microservices, Storage & Backend Core
+#### 🛰️ Distributed Backend, Cloud Ecosystem & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,firebase,gcp&theme=dark" alt="Backend and Cloud" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,postgres,redis,firebase,gcp&perline=9&theme=dark" alt="Backend & Cloud Matrix" />
 </a>
 
 <br/>
 
-#### 🌐 Embedded IoT, Edge Computing & DevOps Fleet
+#### 🤖 Embedded IoT, Hardware & Robotics Fleet
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,docker,git,github,vscode,postman&theme=dark" alt="DevOps and Hardware" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,bash&perline=6&theme=dark" alt="Hardware & IoT" />
+</a>
+
+<br/>
+
+#### 🛠️ DevOps, Infrastructure & Developer Tooling
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,vscode,neovim&perline=8&theme=dark" alt="DevOps & Tooling" />
 </a>
 
 </div>
@@ -124,34 +177,47 @@ engineering_passions:
 
 <div align="center">
 
-  <!-- Live Real-Time Contribution Activity Graph (Always working via API) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1seik4i&theme=tokyo-night&hide_border=true&area=true&color=00F5D4" alt="Contribution Wave Graph" width="95%" />
+  <!-- Live Contribution Activity Graph -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=1seik4i&theme=tokyo-night&hide_border=true&area=true&color=00F5D4&point=00F5D4" alt="Contribution Wave Graph" width="96%" />
+  </p>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <table border="0">
+  <table border="0" style="border-collapse: collapse; width: 100%; max-width: 900px;">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.shion.dev/api?username=1seik4i&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="1seik4i's GitHub Stats" width="415" />
+      <td align="center" width="50%" style="padding: 6px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=1seik4i&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=00F5D4&icon_color=00F5D4&text_color=94A3B8&bg_color=0D1117" alt="GitHub Stats" width="100%" />
       </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=1seik4i&theme=tokyonight&hide_border=true" alt="1seik4i's Streak Stats" width="415" />
+      <td align="center" width="50%" style="padding: 6px;">
+        <img src="https://streak-stats.demolab.com/?user=1seik4i&theme=tokyonight&hide_border=true&stroke=00F5D4&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&background=0D1117" alt="Streak Stats" width="100%" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=1seik4i&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="430" />
+      <td colspan="2" align="center" style="padding: 6px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1seik4i&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00F5D4&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" width="85%" />
       </td>
     </tr>
   </table>
 </div>
 
+<br/>
+
+<!-- 🐍 Contribution Grid Animated Eater -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1seik4i/1seik4i/output/github-snake-neon.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1seik4i/1seik4i/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/1seik4i/1seik4i/output/github-snake-neon.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  </picture>
+</div>
+
 ---
 
-### 📜 Daily Developer Directive
+### 📜 Daily Developer Directive & Quantum Philosophy
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" width="85%" />
@@ -161,5 +227,7 @@ engineering_passions:
 
 <!-- ⚡ Quantum Footer Terminal Status -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:111b2b,100:090d16&height=50&section=footer&text=%E2%88%9E%20END%20OF%20TRANSMISSION%20%7C%20POWERED%20BY%20CONTINUOUS%20INNOVATION%20%E2%88%9E&fontSize=14&fontColor=00F5D4&fontAlignY=50" width="100%" alt="Footer" />
+  <a href="https://github.com/1seik4i">
+    <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:090d16,50:0d1b2a,100:00F5D4&height=90&section=footer&text=%E2%88%9E%20END%20OF%20TRANSMISSION%20%E2%80%A2%20INNOVATION%20WITHOUT%20LIMITS%20%E2%88%9E&fontSize=15&fontColor=00F5D4&fontAlignY=65" width="100%" alt="Footer Banner" />
+  </a>
 </div>
