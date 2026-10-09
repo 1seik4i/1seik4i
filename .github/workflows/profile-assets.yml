@@ -45,6 +45,9 @@ jobs:
           pip install -r .galaxy-profile/requirements.txt
           cp config.yml .galaxy-profile/config.yml
           cd .galaxy-profile
+          # Keep the galaxy visual clean by hiding automatic repository-name labels.
+          sed -i 's/^LABEL_LIMIT = 4/LABEL_LIMIT = 0/' generator/model.py
+          grep -q '^LABEL_LIMIT = 0' generator/model.py
           python -m generator.main
           cd ..
           mkdir -p assets/generated
