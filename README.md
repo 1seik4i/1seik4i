@@ -7,7 +7,7 @@
   </picture>
 
   <p align="center">
-    <img src="./assets/engineering-intro.svg?v=20261018-pixel" width="850" alt="Build things that matter. Turn curiosity into useful software." />
+    <img src="./assets/pixel-typing-intro.svg" width="850" alt="Build things that matter. Turn curiosity into useful software." />
   </p>
 
   <p align="center">
