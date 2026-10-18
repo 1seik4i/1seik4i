@@ -7,7 +7,7 @@
   </picture>
 
   <p align="center">
-    <img src="./assets/engineering-intro.svg" width="850" alt="Designing software that connects cloud, edge, and hardware. Clean architecture. Reliable systems. Practical engineering." />
+    <img src="./assets/engineering-intro.svg?v=20261018" width="850" alt="Designing software that connects cloud, edge, and hardware. Clean architecture. Reliable systems. Practical engineering." />
   </p>
 
   <p align="center">
@@ -58,22 +58,10 @@ I am **Minh Khai**, a software engineer based in Vietnam. I build web applicatio
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution calendar" />
 </div>
 
-<details>
-  <summary><strong>Contribution animation</strong></summary>
-  <br/>
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1seik4i/1seik4i/output/github-snake-neon.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1seik4i/1seik4i/output/github-contribution-grid-snake.svg">
-      <img src="https://raw.githubusercontent.com/1seik4i/1seik4i/output/github-snake-neon.svg" width="100%" alt="Animated contribution graph" />
-    </picture>
-  </div>
-</details>
-
 ---
 
 <div align="center">
   <h3>Build with purpose. Improve with evidence.</h3>
   <p>Interested in thoughtful software, autonomous systems, and ambitious engineering problems.</p>
-  <a href="mailto:1seik4i@gmail.com"><img src="https://img.shields.io/badge/Let's_connect-00F5D4?style=for-the-badge&logo=gmail&logoColor=080C14" alt="Contact Minh Khai" /></a>
+  <a href="mailto:1seik4i@gmail.com"><img src="https://img.shields.io/badge/Let's_connect-1seik4i%40gmail.com-00F5D4?style=for-the-badge&logo=gmail&logoColor=080C14" alt="Let's connect: 1seik4i@gmail.com" /></a>
 </div>

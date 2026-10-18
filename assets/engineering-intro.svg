@@ -1,8 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="100" viewBox="0 0 850 100" role="img" aria-labelledby="title desc">
   <title id="title">Engineering introduction</title>
   <desc id="desc">Designing software that connects cloud, edge, and hardware. Clean architecture. Reliable systems. Practical engineering.</desc>
+  <defs>
+    <clipPath id="line-one"><rect class="reveal first" x="55" y="18" width="740" height="29" /></clipPath>
+    <clipPath id="line-two"><rect class="reveal second" x="70" y="52" width="710" height="29" /></clipPath>
+  </defs>
+  <style>
+    .first { animation: type-first 12s steps(61, end) infinite; }
+    .second { animation: type-second 12s steps(62, end) infinite; }
+    @keyframes type-first {
+      0% { width: 0; }
+      30%, 92% { width: 740px; }
+      100% { width: 0; }
+    }
+    @keyframes type-second {
+      0%, 34% { width: 0; }
+      65%, 88% { width: 710px; }
+      96%, 100% { width: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal { animation: none; }
+    }
+  </style>
   <g text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="21" font-weight="600">
-    <text x="425" y="40" fill="#00BFA6">Designing software that connects cloud, edge, and hardware.</text>
-    <text x="425" y="74" fill="#A78BFA">Clean architecture. Reliable systems. Practical engineering.</text>
+    <text x="425" y="40" fill="#00BFA6" textLength="740" lengthAdjust="spacingAndGlyphs" clip-path="url(#line-one)">Designing software that connects cloud, edge, and hardware.</text>
+    <text x="425" y="74" fill="#A78BFA" textLength="710" lengthAdjust="spacingAndGlyphs" clip-path="url(#line-two)">Clean architecture. Reliable systems. Practical engineering.</text>
   </g>
 </svg>
