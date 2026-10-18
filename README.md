@@ -7,7 +7,7 @@
   </picture>
 
   <p align="center">
-    <img src="./assets/engineering-intro.svg?v=20261018" width="850" alt="Designing software that connects cloud, edge, and hardware. Clean architecture. Reliable systems. Practical engineering." />
+    <img src="./assets/engineering-intro.svg?v=20261018-pixel" width="850" alt="Build things that matter. Turn curiosity into useful software." />
   </p>
 
   <p align="center">
