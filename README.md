@@ -11,10 +11,9 @@
   </p>
 
   <p align="center">
-    <a href="mailto:1seik4i@gmail.com"><img src="https://img.shields.io/badge/Gmail-1seik4i%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail: 1seik4i@gmail.com" /></a>
     <a href="https://www.facebook.com/minh.khai.993993/?locale=vi_VN"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
+    <a href="mailto:1seik4i@gmail.com"><img src="https://img.shields.io/badge/Gmail-1seik4i%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail: 1seik4i@gmail.com" /></a>
     <a href="https://www.linkedin.com/in/kh%E1%BA%A3i-l%C3%A2m-9a4961418/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/1seik4i"><img src="https://img.shields.io/badge/GitHub-1seik4i-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: 1seik4i" /></a>
   </p>
 </div>
 
