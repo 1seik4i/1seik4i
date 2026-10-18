@@ -41,7 +41,7 @@ I am **Minh Khai**, a software engineer based in Vietnam. I build web applicatio
 
 ---
 
-## GitHub Activity
+<h3>GitHub Activity</h3>
 
 <div align="center">
   <picture>
@@ -63,5 +63,5 @@ I am **Minh Khai**, a software engineer based in Vietnam. I build web applicatio
 <div align="center">
   <h3>Build with purpose. Improve with evidence.</h3>
   <p>Interested in thoughtful software, autonomous systems, and ambitious engineering problems.</p>
-  <a href="mailto:1seik4i@gmail.com"><img src="https://img.shields.io/badge/Let's_connect-1seik4i%40gmail.com-00F5D4?style=for-the-badge&logo=gmail&logoColor=080C14" alt="Let's connect: 1seik4i@gmail.com" /></a>
+  <a href="mailto:1seik4i@gmail.com"><img src="https://img.shields.io/badge/Let's_connect-1seik4i%40gmail.com-7C3AED?style=for-the-badge&amp;labelColor=00F5D4&amp;logo=gmail&amp;logoColor=080C14" alt="Let's connect: 1seik4i@gmail.com" /></a>
 </div>
