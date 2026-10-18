@@ -44,7 +44,7 @@
 
 ---
 
-<h3>GitHub Activity</h3>
+<h3>My Activity</h3>
 
 <div align="center">
   <picture>
