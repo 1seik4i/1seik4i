@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="255" viewBox="0 0 850 255" role="img" aria-labelledby="title desc">
+  <title id="title">About Minh Khai</title>
+  <desc id="desc">Hi, I'm Minh Khai. Engineering simplicity. Building possibilities. I'm a software engineer based in Vietnam, passionate about turning ambitious ideas into thoughtful digital experiences. I build modern web applications, design reliable backend systems, and explore the intersection of software, hardware, and emerging technologies. My approach is simple: write purposeful code, embrace thoughtful design, and never stop learning.</desc>
+  <style>
+    .heading { fill: #F0F6FC; }
+    .body { fill: #C9D1D9; }
+    @media (prefers-color-scheme: light) {
+      .heading { fill: #1F2328; }
+      .body { fill: #424A53; }
+      text[fill="#A5B4FC"] { fill: #6554C0; }
+    }
+  </style>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <text class="heading" x="15" y="50" font-size="38" font-weight="700">Hi, I'm Minh Khai.</text>
+<text x="15" y="98" fill="#A5B4FC" font-size="28" font-weight="600">Engineering simplicity. Building possibilities.</text>
+<text class="body" x="15" y="138" font-size="15">I'm a software engineer based in Vietnam, passionate about turning ambitious ideas into thoughtful</text>
+<text class="body" x="15" y="161" font-size="15">digital experiences. I build modern web applications, design reliable backend systems, and explore the</text>
+<text class="body" x="15" y="184" font-size="15">intersection of software, hardware, and emerging technologies.</text>
+<text class="body" x="15" y="222" font-size="15">My approach is simple: write purposeful code, embrace thoughtful design, and never stop learning.</text>
+  </g>
+</svg>

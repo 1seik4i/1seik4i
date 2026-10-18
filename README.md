@@ -17,9 +17,12 @@
   </p>
 </div>
 
-## Executive Profile & Engineering Focus
+## About Me
 
-I am **Minh Khai**, a software engineer based in Vietnam. I build web applications and backend systems, and explore embedded software and hardware. I value clean code, reliable solutions, and learning by building.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/about-me-mobile.svg">
+  <img src="./assets/about-me.svg" width="100%" alt="Hi, I'm Minh Khai. Engineering simplicity. Building possibilities. I'm a software engineer based in Vietnam, building modern web applications and reliable backend systems while exploring software, hardware, and emerging technologies. My approach: purposeful code, thoughtful design, and continuous learning." />
+</picture>
 
 ---
 
