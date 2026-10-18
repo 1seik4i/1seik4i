@@ -6,47 +6,21 @@
     <img src="./assets/generated/galaxy-header.svg?v=20261009" width="100%" alt="Minh Khai's repository galaxy" />
   </picture>
 
-  <a href="https://github.com/1seik4i">
-    <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Designing%20software%20that%20connects%20cloud%2C%20edge%2C%20and%20hardware.%22%2C%22color%22%3A%22%2300F5D4%22%7D%2C%7B%22text%22%3A%22Clean%20architecture.%20Reliable%20systems.%20Practical%20engineering.%22%2C%22color%22%3A%22%23A78BFA%22%7D%5D&font=Fira%20Code&width=850&height=90&fontSize=19&typingSpeed=0.04&deleteSpeed=0.02&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=block&deletionBehavior=backspace&fontWeight=600&backgroundColor=%23080C14&backgroundOpacity=0" width="100%" alt="Engineering introduction" />
-  </a>
+  <p align="center">
+    <img src="./assets/engineering-intro.svg" width="850" alt="Designing software that connects cloud, edge, and hardware. Clean architecture. Reliable systems. Practical engineering." />
+  </p>
 
-  <p>
-    <a href="mailto:1seik4i@gmail.com"><img src="https://img.shields.io/badge/Email-1seik4i%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00F5D4" alt="Email" /></a>
-    <a href="https://github.com/1seik4i"><img src="https://img.shields.io/badge/GitHub-1seik4i-0D1117?style=flat-square&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
-    <img src="https://img.shields.io/badge/Vietnam-UTC%2B7-0D1117?style=flat-square&logo=googleearth&logoColor=FFB020" alt="Vietnam, UTC+7" />
-    <img src="https://komarev.com/ghpvc/?username=1seik4i&color=00f5d4&style=flat-square&label=Profile+views" alt="Profile views" />
+  <p align="center">
+    <a href="mailto:1seik4i@gmail.com"><img src="https://img.shields.io/badge/Gmail-1seik4i%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail: 1seik4i@gmail.com" /></a>
+    <a href="https://www.facebook.com/minh.khai.993993/?locale=vi_VN"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
+    <a href="https://www.linkedin.com/in/kh%E1%BA%A3i-l%C3%A2m-9a4961418/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/1seik4i"><img src="https://img.shields.io/badge/GitHub-1seik4i-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: 1seik4i" /></a>
   </p>
 </div>
 
 ## Executive Profile & Engineering Focus
 
-I am **Minh Khai**, a software engineer in Vietnam interested in the point where dependable software meets the physical world. My work and learning span backend architecture, modern web applications, embedded systems, and hardware experimentation.
-
-I approach engineering as a complete system: understand the real constraint, design clear boundaries, build the smallest reliable solution, and improve it with evidence. I care about code that remains understandable under change—not complexity for its own sake.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Cloud & Backend</h3>
-      <p>API design, data modeling, distributed workflows, caching, observability, and maintainable service boundaries.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Product Engineering</h3>
-      <p>Responsive interfaces, end-to-end feature delivery, thoughtful developer experience, and pragmatic automation.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Edge & Hardware</h3>
-      <p>Embedded programming, robotics concepts, telemetry, PCB exploration, and software–hardware integration.</p>
-    </td>
-  </tr>
-</table>
-
-### How I work
-
-- **Clarity before cleverness** — explicit architecture, readable code, and decisions that teammates can revisit.
-- **Reliability by design** — validation, predictable failure modes, observability, and testing at meaningful boundaries.
-- **End-to-end ownership** — from problem framing and data design to delivery, automation, and iteration.
-- **Continuous learning** — exploring systems deeply, documenting what matters, and turning experiments into reusable knowledge.
+I am **Minh Khai**, a software engineer based in Vietnam. I build web applications and backend systems, and explore embedded software and hardware. I value clean code, reliable solutions, and learning by building.
 
 ---
 

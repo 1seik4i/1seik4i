@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="100" viewBox="0 0 850 100" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering introduction</title>
+  <desc id="desc">Designing software that connects cloud, edge, and hardware. Clean architecture. Reliable systems. Practical engineering.</desc>
+  <g text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="21" font-weight="600">
+    <text x="425" y="40" fill="#00BFA6">Designing software that connects cloud, edge, and hardware.</text>
+    <text x="425" y="74" fill="#A78BFA">Clean architecture. Reliable systems. Practical engineering.</text>
+  </g>
+</svg>
